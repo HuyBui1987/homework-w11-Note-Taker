@@ -1,4 +1,4 @@
-# Homework-Week-10: OOP Team Profile Generator
+# Homework-Week-11: Note Taker using express
 ## Description
 
 This asssignment is about creating an application uses an express backend and save and retrieve note data from a JSON file.This is a simple Note Taker application that allows users to add, view saved notes and also delete the notes if the user don't need that note anymore.
