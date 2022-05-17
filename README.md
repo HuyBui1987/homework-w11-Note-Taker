@@ -10,6 +10,7 @@ This asssignment is about creating an application uses an express backend and sa
 - [Screenshot](#screenshot)
 - [Walkthrough Video](#walkthrough-video)
 - [Credits](#credits)
+- [License](#License)
 
 # User Story
 
@@ -54,6 +55,13 @@ This is a screenshot of the generated HTML webpage.
 - Express: https://expressjs.com/
 - Inquirer: https://www.npmjs.com/package/inquirer
 - heroku: https://dashboard.heroku.com/apps
+
+## License
+
+MIT License
+
+Copyright (c) 2022 Xuan Huy Bui.
+Email contact: huybuixuan87@gmail.com
 
 
     
