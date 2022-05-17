@@ -46,9 +46,9 @@ This is a screenshot of the generated HTML webpage.
 ![Note Taker task Screenshot](./public/assets/images/note-taker-save-note.png)
 
 ## Walkthrough Video
-![Note Taker Walkthrough Video via google drive](https://drive.google.com/file/d/1eq-mFNqFYdKXlb3Y2s9zVIzHqnDnc_Yw/view)
 
 ![Note Taker Walkthrough Video via gif](./public/assets/images/proccess.gif)
+
 ## Credits
 - Bootstrap: https://getbootstrap.com/
 - NodeJS: https://nodejs.org/en/
@@ -60,8 +60,8 @@ This is a screenshot of the generated HTML webpage.
 
 MIT License
 
-Copyright (c) 2022 Xuan Huy Bui.
-Email contact: huybuixuan87@gmail.com
+- Copyright (c) 2022 Xuan Huy Bui.
+- Email: huybuixuan87@gmail.com
 
 
     
